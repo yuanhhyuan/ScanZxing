@@ -1,0 +1,158 @@
+<resources>
+    <string name="app_name">中祥创观</string>
+
+    <string name="text_on_system">在院用户</string>
+    <string name="text_on_system_e">Nursing home user</string>
+    <string name="text_out_system">普通用户</string>
+    <string name="text_out_system_e">Average user</string>
+
+
+    <string name="title_back">返回</string>
+    <string name="title_on_system">会员登陆</string>
+    <string name="title_user_info">老人信息</string>
+    <string name="title_measure_tip">测量提示</string>
+    <string name="title_measure_begin">开始测量</string>
+    <string name="title_measure_ing">测量中</string>
+    <string name="title_fp_login">指纹登录</string>
+    <string name="title_measure_result">测量完成</string>
+    <string name="title_fp_collection">指纹绑定</string>
+    <string name="title_fp_collection_continue">继续录入</string>
+    <string name="title_register">动态登录</string>
+    <string name="title_out_tip">测量提示</string>
+
+    <string name="btn_next">下一步</string>
+    <string name="btn_measure">启动测量</string>
+    <string name="btn_fp_start">开始录入指纹</string>
+    <string name="btn_measure_start">开始测量</string>
+    <string name="btn_user_register">手机号登陆</string>
+    <string name="btn_get_code">获取验证码</string>
+    <string name="btn_register">登录</string>
+    <string name="btn_query">查询</string>
+    <string name="btn_measure_again">复测</string>
+    <string name="btn_fp_bind">指纹绑定</string>
+    <string name="btn_member_no">非会员</string>
+    <string name="btn_fp_save">确认保存指纹</string>
+
+    <string name="text_on_system_login_type">选择登陆方式</string>
+
+    <string name="text_measure_method_chose">选择进入测量方式</string>
+    <string name="text_measure_method_chose_tip">（在院老用户）</string>
+    <string name="text_measure_method_chose_finger">指纹进入方式</string>
+    <string name="text_measure_method_chose_scan">扫码进入方式</string>
+
+    <string name="text_measure_finger">指纹录入</string>
+    <string name="text_measure_finger_tip">（在院新用户）</string>
+    <string name="text_measure_finger_text">录指纹</string>
+    <string name="text_measure_finger_start_tip">指纹登录</string>
+
+    <string name="text_fp_collection_start_tip">请分别录入两个指纹</string>
+    <string name="text_fp_collect_tip">将拇指或其他手指放在指纹感应器\n每次录入手指的不同区块</string>
+    <string name="text_fp_collect_success">录入成功</string>
+
+    <string name="text_fp_identify_tip">请放入手指进行识别</string>
+    <string name="text_fp_start_tip">按压指纹启动测量</string>
+
+    <string name="text_measure_tip_content">请佩戴臂带</string>
+    <string name="text_measure_begin_content">按压或点击开始测量</string>
+    <string name="text_measure_ing_content">血压测量中……</string>
+
+
+
+    <string name="label_name">老人姓名：</string>
+    <string name="label_location">住宿位置：</string>
+    <string name="label_level_nurse">护理级别：</string>
+    <string name="label_level_ability">能力级别：</string>
+    <string name="label_high_bp">高压</string>
+    <string name="label_low_bp">低压</string>
+    <string name="label_pulse">脉搏</string>
+    <string name="label_bit_bp">mmHg</string>
+    <string name="label_bit_bpm">bpm</string>
+    <string name="label_measure_result">测量结果：</string>
+    <string name="label_measure_time">测量时间：</string>
+    <string name="label_date">日期</string>
+    <string name="label_time">时间</string>
+    <string name="label_bp">血压(mmHg)</string>
+    <string name="label_bpm">脉搏(bpm)</string>
+    <string name="label_status">状态</string>
+
+    <string name="tip_fp_collect_warning">*请确保手指覆盖金属圆环，且清洁干燥</string>
+    <string name="tip_fp_login">请放入指纹登录</string>
+    <string name="tip_measure_start">指纹启动中...</string>
+
+    <string name="hint_user_code">请输入老人编号或者直接扫码</string>
+    <string name="hint_user_phone">请输入手机号码</string>
+    <string name="hint_user_valid">请输入验证码</string>
+
+    <string name="dialog_content">请先录入指纹</string>
+
+    <string name="toast_back_main">再次点击，返回主界面</string>
+    <string name="toast_user_code_empty">请输入老人编码</string>
+    <string name="toast_user_code_error">老人编码不存在</string>
+    <string name="toast_scan_error">扫码失败</string>
+    <string name="toast_fp_switch_error">指纹功能未开启，请先开启指纹功能</string>
+    <string name="toast_fp_error">指纹识别失败，请再次尝试</string>
+    <string name="toast_fp_api_error">此设备不支持指纹登录，请尝试其它登录方式</string>
+    <string name="toast_fp_permission">没有使用指纹的权限，请检查</string>
+    <string name="toast_fp_login_success">登录成功</string>
+    <string name="toast_fp_login_fail">指纹识别失败</string>
+    <string name="toast_data_error">数据格式错误</string>
+    <string name="toast_phone_empty">手机号不能为空</string>
+    <string name="toast_code_empty">验证码不能为空</string>
+
+    <string name="toast_fp_start_error">指纹模块初始化失败，请重新启动应用程序</string>
+    <string name="toast_login_first">请先绑定指纹再进行测量</string>
+
+
+    <string name="toast_fp_collect_info">请先录入两枚指纹</string>
+    <string name="toast_fp_put">请按下手指</string>
+    <string name="toast_fp_identify">正在识别</string>
+    <string name="toast_fp_put_again">请抬起手指，重新按下</string>
+    <string name="toast_fp_get_again">录入成功，请重新放置手指，再次录入</string>
+    <string name="toast_fp_pick_up">请抬起手指</string>
+    <string name="toast_fp_get_ing">指纹读取中，请耐心等待</string>
+    <string name="toast_fp_get_error">指纹获取失败，请重新放置手指</string>
+    <string name="toast_fp_role_chose">请先选择用户类型</string>
+
+    <string name="toast_fp_start_success">指纹识别成功，正在启动测量</string>
+
+    <string name="toast_fp_collect_success">指纹采集成功</string>
+    <string name="toast_fp_collect_error">指纹采集失败</string>
+    <string name="toast_fp_save_success">指纹保存成功</string>
+    <string name="toast_fp_save_error">指纹保存失败</string>
+
+    <string name="toast_fp_identify_fail">指纹识别失败</string>
+    <string name="toast_fp_empty">还没有绑定过指纹，请先绑定指纹</string>
+
+    <string name="toast_measure_open_error">血压计打开失败，请稍后测量</string>
+
+
+
+
+    <string name="toast_fp_collect_success_one">指纹采集成功, 请换只手指再次录入</string>
+
+    <string name="bp_high_">血压偏高</string>
+    <string name="bp_high">偏高</string>
+    <string name="bp_normal">正常</string>
+    <string name="bp_low">偏低</string>
+    <string name="bp_low_">血压偏低</string>
+
+    <string name="concat_fp_collect">指纹%1$d已录入</string>
+    <string name="concat_bpm_collect">脉搏：%1$s  bpm</string>
+    <string name="concat_fp_login_error">失败次数过多，请%1$s秒后再试</string>
+
+    <string name="dialog_content_tip">您还没有绑定指纹，请先绑定指纹</string>
+    <string name="dialog_content_fp_error">指纹模块开启失败，请重新启动应用程序</string>
+    <string name="dialog_title_permission">提示信息</string>
+    <string name="dialog_message_permission">当前应用缺少必要权限，该功能暂时无法使用。如若需要，请单击【确定】按钮前往设置中心进行权限授权。</string>
+    <string name="dialog_content_finger_tip">请先录入指纹</string>
+    <string name="dialog_btn_cancel">取消</string>
+    <string name="dialog_btn_back">返回</string>
+    <string name="dialog_btn_sure">确定</string>
+
+
+    <string name="concat_fp_error_time">指纹识别失败,您还有  %1$d  次机会尝试</string>
+
+
+    <string name="top_hint">将条形码或二维码置于取景框内系统会自动扫描</string>
+
+</resources>

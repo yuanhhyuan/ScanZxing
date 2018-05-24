@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_ss">3dp</dimen>
+    <dimen name="margin_s">5dp</dimen>
+    <dimen name="margin_sl">6dp</dimen>
+    <dimen name="margin_ms">8dp</dimen>
+    <dimen name="margin_m">10dp</dimen>
+    <dimen name="margin_ml">13dp</dimen>
+
+    <dimen name="margin_l">20dp</dimen>
+    <dimen name="margin_ll">30dp</dimen>
+
+    <dimen name="margin_ground">26dp</dimen>
+    <dimen name="margin_bottom">19dp</dimen>
+    <dimen name="margin_bottom_ls">35dp</dimen>
+    <dimen name="margin_bottom_scroll">16dp</dimen>
+    <dimen name="margin_bottom_l">30dp</dimen>
+    <dimen name="margin_card_left">14dp</dimen>
+
+
+
+    <dimen name="drawable_padding_l">15dp</dimen>
+
+    <dimen name="drawable_padding_m">8dp</dimen>
+
+    <dimen name="main_head_func">27dp</dimen>
+
+    <dimen name="header_height">42dp</dimen>
+
+    <dimen name="content_top_margin">97dp</dimen>
+
+    <dimen name="card_left_padding">18dp</dimen>
+
+    <dimen name="measure_chose_top_margin">@dimen/content_top_margin</dimen>
+    <dimen name="measure_chose_top_margin_o">53dp</dimen>
+
+    <dimen name="status_bar_height">24dp</dimen>
+    <dimen name="header_view_height">294dp</dimen>
+    <dimen name="measure_chose_bg_top_height">270dp</dimen>
+    <dimen name="measure_chose_bg_top_height_l">397dp</dimen>
+    <dimen name="measure_chosep_bg_bottom_height">64dp</dimen>
+
+    <dimen name="on_system_login_label_top_margin">80dp</dimen>
+    <dimen name="on_system_login_type_top_margin">20dp</dimen>
+    <dimen name="on_system_ad_iv_top_margin">10dp</dimen>
+
+    <dimen name="out_system_bg_bottom_height">54dp</dimen>
+    <dimen name="out_system_bg_bottom_padding">30dp</dimen>
+    <dimen name="out_system_btn_top_padding">62dp</dimen>
+    <dimen name="out_system_img_top_margin">107dp</dimen>
+    <dimen name="out_system_finger_top_margin">258dp</dimen>
+    <dimen name="out_system_img_width">81dp</dimen>
+    <dimen name="out_system_img_height">185dp</dimen>
+    <dimen name="out_system_finger_height">112dp</dimen>
+
+    <dimen name="out_system_func_top_margin">112dp</dimen>
+    <dimen name="out_system_ad_iv_top_margin">57dp</dimen>
+
+    <dimen name="measure_chose_card_height">128dp</dimen>
+    <dimen name="measure_chose_card_height_s">125dp</dimen>
+
+    <dimen name="measure_data_top_margin">30dp</dimen>
+    <dimen name="measure_banner_top_margin">26dp</dimen>
+
+    <dimen name="measure_tip_top_margin">40dp</dimen>
+    <dimen name="measure_pic_top_margin">36dp</dimen>
+    <dimen name="measure_btn_top_margin">44dp</dimen>
+
+    <dimen name="measure_result_card_top_margin">78dp</dimen>
+    <dimen name="measure_result_bp_top_margin">50dp</dimen>
+    <dimen name="measure_result_time_top_margin">50dp</dimen>
+    <dimen name="measure_result_btn_left_margin">76dp</dimen>
+    <dimen name="measure_result_btn_top_margin">18dp</dimen>
+    <dimen name="measure_result_btn_bottom_margin">22dp</dimen>
+
+    <dimen name="measure_result_status_top_margin">30dp</dimen>
+    <dimen name="measure_result_left_margin">50dp</dimen>
+    <dimen name="measure_result_table_header_height">27dp</dimen>
+
+    <dimen name="register_input_top_margin">42dp</dimen>
+    <dimen name="register_btn_top_margin">20dp</dimen>
+    <dimen name="register_get_code_width">84dp</dimen>
+
+    <dimen name="user_input_top_margin">40dp</dimen>
+    <dimen name="user_input_code_height">40dp</dimen>
+    <dimen name="user_input_code_width">145dp</dimen>
+    <dimen name="user_btn_width">160dp</dimen>
+    <dimen name="user_btn_top_margin">10dp</dimen>
+
+    <dimen name="user_info_top_margin">172dp</dimen>
+    <dimen name="user_info_card_left_padding">56dp</dimen>
+    <dimen name="user_info_card_top_padding">91dp</dimen>
+    <dimen name="user_info_btn_top_margin">27dp</dimen>
+    <dimen name="user_info_tip_top_margin">20dp</dimen>
+    <dimen name="user_info_user_header_width">154dp</dimen>
+    <dimen name="user_info_user_header_top_margin">96dp</dimen>
+    <dimen name="user_info_user_header_padding">8dp</dimen>
+
+    <dimen name="user_code_top_margin">77dp</dimen>
+    <dimen name="user_code_input_top_margin">30dp</dimen>
+    <dimen name="user_code_info_top_margin">25dp</dimen>
+    <dimen name="user_code_fp_top_margin">50dp</dimen>
+    <dimen name="user_code_tip_top_margin">30dp</dimen>
+    <dimen name="user_code_btn_top_margin">70dp</dimen>
+
+
+    <dimen name="fp_collection_finger_top_margin">57dp</dimen>
+    <dimen name="fp_collection_tip_top_margin">55dp</dimen>
+    <dimen name="fp_collection_tip_btn_left_margin">60dp</dimen>
+
+    <dimen name="fp_collect_top_margin">97dp</dimen>
+    <dimen name="fp_collect_tip_top_margin">45dp</dimen>
+    <dimen name="fp_collect_tip_left_margin">45dp</dimen>
+
+    <dimen name="fp_identify_pic_top_margin">35dp</dimen>
+
+    <dimen name="fp_bind_card_top_margin">78dp</dimen>
+    <dimen name="fp_bind_pic_width">98dp</dimen>
+    <dimen name="fp_bind_pic1_top_margin">54dp</dimen>
+    <dimen name="fp_bind_pic2_top_margin">66dp</dimen>
+    <dimen name="fp_bind_tip_top_margin">82dp</dimen>
+    <dimen name="fp_bind_btn_bottom_margin">24dp</dimen>
+
+    <dimen name="divider_m">4dp</dimen>
+    <dimen name="divider_list">3dp</dimen>
+
+    <dimen name="dialog_width">165dp</dimen>
+    <dimen name="dialog_height">93dp</dimen>
+    <dimen name="dialog_content_top_margin">25dp</dimen>
+    <dimen name="dialog_btn_top_margin">14dp</dimen>
+    <dimen name="dialog_btn_width">80dp</dimen>
+    <dimen name="dialog_btn_height">35dp</dimen>
+
+    <dimen name="card_elevation_s">2dp</dimen>
+    <dimen name="card_elevation_m">4dp</dimen>
+    <dimen name="card_elevation_l">6dp</dimen>
+
+    <dimen name="card_radius_s">2dp</dimen>
+    <dimen name="card_radius_m">4dp</dimen>
+    <dimen name="card_radius_l">6dp</dimen>
+
+    <dimen name="bp_board">280dp</dimen>
+    <dimen name="pointer_short">20dp</dimen>
+    <dimen name="pointer_length">28dp</dimen>
+
+    <dimen name="bp_value_margin">50dp</dimen>
+
+    <dimen name="btn_height">40dp</dimen>
+
+    <dimen name="font_8">@dimen/font_12_</dimen>
+    <dimen name="font_10">@dimen/font_14_</dimen>
+    <dimen name="font_11">11sp</dimen>
+    <dimen name="font_12">@dimen/font_18_</dimen>
+    <dimen name="font_13">13sp</dimen>
+    <dimen name="font_14">14sp</dimen>
+    <dimen name="font_15">15sp</dimen>
+    <dimen name="font_23">23sp</dimen>
+
+    <dimen name="font_8_">8sp</dimen>
+    <dimen name="font_10_">10sp</dimen>
+    <dimen name="font_11_">11sp</dimen>
+    <dimen name="font_12_">12sp</dimen>
+    <dimen name="font_13_">13sp</dimen>
+    <dimen name="font_14_">14sp</dimen>
+    <dimen name="font_15_">15sp</dimen>
+    <dimen name="font_16_">16sp</dimen>
+    <dimen name="font_18_">18sp</dimen>
+    <dimen name="font_23_">23sp</dimen>
+    <dimen name="font_35_">35sp</dimen>
+    <dimen name="font_50_">50sp</dimen>
+    <dimen name="font_70_">70sp</dimen>
+</resources>
