@@ -10,7 +10,7 @@
         android:id="@+id/capture_preview"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
-    <com.zxcgw.wifi.wifiautoconnect.ui.HeaderView
+    <com.hy.app.scan.ui.HeaderView
         android:id="@+id/headView"
         android:layout_width="match_parent"
         android:layout_height="72dp"
@@ -55,7 +55,6 @@
             android:background="@drawable/shadow" />
 
         <ImageView
-            android:id="@+id/capture_mask_left"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_above="@id/capture_mask_bottom"
@@ -65,7 +64,6 @@
             android:background="@drawable/shadow" />
 
         <ImageView
-            android:id="@+id/capture_mask_right"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_above="@id/capture_mask_bottom"

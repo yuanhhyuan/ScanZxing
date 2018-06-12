@@ -3,7 +3,6 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content">
     <View
-        android:id="@+id/bg"
         android:layout_width="match_parent"
         android:layout_height="@dimen/header_view_height"
         android:background="@drawable/shape_gradient_blue"/>
@@ -56,7 +55,6 @@
         android:textSize="@dimen/font_12"/>
 
     <LinearLayout
-        android:id="@+id/rightLL"
         android:layout_width="wrap_content"
         android:layout_height="@dimen/header_height"
         android:orientation="horizontal">
